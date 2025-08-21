@@ -1,11 +1,6 @@
-# Xianxia Idioms for Dotfiles
+# Xianxia Idioms Collection
 
-Minimal Chinese cultivation novel idioms for terminal text fillers. Simply pipe these JSON files to your CLI tools.
-
-## Files
-- `combat_idioms.json`: 20 fighting techniques
-- `philosophy_idioms.json`: 80 wisdom phrases
-- `enlightenment_idioms.json`: 20 transcendence concepts
+JSON file with 100 Chinese cultivation idioms
 
 ## Basic Usage
 ```sh
