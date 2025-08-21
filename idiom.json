@@ -1,0 +1,602 @@
+[
+  {
+    "idiom": "大道至简",
+    "pinyin": "dà dào zhì jiǎn",
+    "meaning": "Great Dao is supremely simple",
+    "explanation": "The deepest truths are found in simplicity, not complexity."
+  },
+  {
+    "idiom": "因果循环",
+    "pinyin": "yīn guǒ xún huán",
+    "meaning": "Cause-effect cycle",
+    "explanation": "Every action creates karma that returns to its originator."
+  },
+  {
+    "idiom": "无为而治",
+    "pinyin": "wú wéi ér zhì",
+    "explanation": "Govern through non-action",
+    "meaning": "Achieving harmony by following natural order without interference."
+  },
+  {
+    "idiom": "生生不息",
+    "pinyin": "shēng shēng bù xī",
+    "meaning": "Life breeds without cease",
+    "explanation": "The eternal cycle of rebirth in nature and cultivation."
+  },
+  {
+    "idiom": "返璞归真",
+    "pinyin": "fǎn pǔ guī zhēn",
+    "meaning": "Return plain, go back true",
+    "explanation": "Spiritual awakening through shedding artificial complexity."
+  },
+  {
+    "idiom": "上善若水",
+    "pinyin": "shàng shàn ruò shuǐ",
+    "explanation": "Supreme goodness like water",
+    "meaning": "Ideal virtue flows gently but strengthens all it touches."
+  },
+  {
+    "idiom": "道法自然",
+    "pinyin": "dào fǎ zì rán",
+    "meaning": "Dao follows nature",
+    "explanation": "Universal principles mirror organic cosmic patterns."
+  },
+  {
+    "idiom": "祸福相依",
+    "pinyin": "huò fú xiāng yī",
+    "meaning": "Misfortune and fortune lean together",
+    "explanation": "Adversity and blessing are interconnected forces."
+  },
+  {
+    "idiom": "明心见性",
+    "pinyin": "míng xīn jiàn xìng",
+    "meaning": "Bright heart, see nature",
+    "explanation": "Self-enlightenment revealing one's true spiritual essence."
+  },
+  {
+    "idiom": "知足常乐",
+    "pinyin": "zhī zú cháng lè",
+    "meaning": "Know sufficiency, constant joy",
+    "explanation": "Contentment brings enduring happiness."
+  },
+  {
+    "idiom": "大智若愚",
+    "pinyin": "dà zhì ruò yú",
+    "meaning": "Great wisdom seems foolish",
+    "explanation": "True sages appear simple-minded to the unenlightened."
+  },
+  {
+    "idiom": "虚怀若谷",
+    "pinyin": "xū huái ruò gǔ",
+    "meaning": "Hollow heart like valley",
+    "explanation": "Wisdom requires emptying oneself of preconceptions."
+  },
+  {
+    "idiom": "顺其自然",
+    "pinyin": "shùn qí zì rán",
+    "meaning": "Follow it naturally",
+    "explanation": "Accepting life's flow rather than forcing outcomes."
+  },
+  {
+    "idiom": "天人合一",
+    "pinyin": "tiān rén hé yī",
+    "meaning": "Heaven and human unite as one",
+    "explanation": "Harmony between cosmic order and human action."
+  },
+  {
+    "idiom": "不忘初心",
+    "pinyin": "bù wàng chū xīn",
+    "meaning": "Don't forget beginner's heart",
+    "explanation": "Persevering through hardship by recalling one's original purpose."
+  },
+  {
+    "idiom": "厚德载物",
+    "pinyin": "hòu dé zài wù",
+    "meaning": "Deep virtue carries matter",
+    "explanation": "Moral integrity creates foundations for great achievements."
+  },
+  {
+    "idiom": "周而复始",
+    "pinyin": "zhōu ér fù shǐ",
+    "meaning": "Cycle and restart",
+    "explanation": "The endless revolution of cosmic and personal cycles."
+  },
+  {
+    "idiom": "静水流深",
+    "pinyin": "jìng shuǐ liú shēn",
+    "meaning": "Quiet water flows deep",
+    "explanation": "True depth manifests through stillness, akin to qi meditation."
+  },
+  {
+    "idiom": "诸法皆空",
+    "pinyin": "zhū fǎ jiē kōng",
+    "meaning": "All phenomena empty",
+    "explanation": "Buddhist concept that existence lacks inherent substance."
+  },
+  {
+    "idiom": "一念嗔心起",
+    "pinyin": "yī niàn chēn xīn qǐ",
+    "meaning": "One thought raises wrathful heart",
+    "explanation": "How resentment poisons spiritual cultivation."
+  },
+  {
+    "idiom": "白驹过隙",
+    "pinyin": "bái jū guò xì",
+    "meaning": "White colt passes crack",
+    "explanation": "Life's brevity - time flashes like a horse glimpsed through a wall crack."
+  },
+  {
+    "idiom": "刚柔并济",
+    "pinyin": "gāng róu bìng jì",
+    "meaning": "Hard and soft combined",
+    "explanation": "Harmonizing opposing forces like strength and gentleness."
+  },
+  {
+    "idiom": "聚沙成塔",
+    "pinyin": "jù shā chéng tǎ",
+    "meaning": "Gather sand become pagoda",
+    "explanation": "Great achievements built through small, persistent efforts."
+  },
+  {
+    "idiom": "超凡入圣",
+    "pinyin": "chāo fán rù shèng",
+    "meaning": "Transcend ordinary, enter sagehood",
+    "explanation": "The spiritual journey beyond mortal limitations."
+  },
+  {
+    "idiom": "水到渠成",
+    "pinyin": "shuǐ dào qú chéng",
+    "meaning": "Water arrives, channel forms",
+    "explanation": "Success emerges naturally when conditions are ready."
+  },
+  {
+    "idiom": "福慧双修",
+    "pinyin": "fú huì shuāng xiū",
+    "meaning": "Cultivate fortune and wisdom together",
+    "explanation": "Balancing material well-being with spiritual insight."
+  },
+  {
+    "idiom": "苦尽甘来",
+    "pinyin": "kǔ jìn gān lái",
+    "meaning": "Bitterness ends, sweetness comes",
+    "explanation": "After enduring hardship, joy eventually arrives."
+  },
+  {
+    "idiom": "物极必反",
+    "pinyin": "wù jí bì fǎn",
+    "meaning": "Things at extreme must reverse",
+    "explanation": "Excess inevitably leads to its opposite (yin-yang principle)."
+  },
+  {
+    "idiom": "落叶归根",
+    "pinyin": "luò yè guī gēn",
+    "meaning": "Falling leaves return to roots",
+    "explanation": "The longing to return to one's origin after life's journey."
+  },
+  {
+    "idiom": "镜花水月",
+    "pinyin": "jìng huā shuǐ yuè",
+    "meaning": "Mirror flowers, water moon",
+    "explanation": "The illusory nature of material existence."
+  },
+  {
+    "idiom": "致虚极守静笃",
+    "pinyin": "zhì xū jí shǒu jìng dǔ",
+    "meaning": "Reach void extreme, guard stillness firm",
+    "explanation": "Meditative state of emptying mind to perceive truth."
+  },
+  {
+    "idiom": "海纳百川",
+    "pinyin": "hǎi nà bǎi chuān",
+    "meaning": "Sea accepts hundred rivers",
+    "explanation": "Wisdom embraces all perspectives like the ocean."
+  },
+  {
+    "idiom": "钟灵毓秀",
+    "pinyin": "zhōng líng yù xiù",
+    "meaning": "Bell essence nourishes beauty",
+    "explanation": "Sacred lands cultivating enlightened beings."
+  },
+  {
+    "idiom": "缘起性空",
+    "pinyin": "yuán qǐ xìng kōng",
+    "meaning": "Dependent origination, intrinsic void",
+    "explanation": "Things exist through conditions but lack inherent nature."
+  },
+  {
+    "idiom": "独具慧眼",
+    "pinyin": "dú jù huì yǎn",
+    "meaning": "Alone possess wise eyes",
+    "explanation": "Exceptional insight to perceive deeper realities."
+  },
+  {
+    "idiom": "君子之交淡如水",
+    "pinyin": "jūn zǐ zhī jiāo dàn rú shuǐ",
+    "meaning": "Noble friendship plain like water",
+    "explanation": "True bonds need no extravagance - purity sustains them."
+  },
+  {
+    "idiom": "宠辱不惊",
+    "pinyin": "chǒng rǔ bù jīng",
+    "meaning": "Unmoved by favor or disgrace",
+    "explanation": "Equanimity in facing praise and slander alike."
+  },
+  {
+    "idiom": "流水不腐",
+    "pinyin": "liú shuǐ bù fǔ",
+    "meaning": "Flowing water doesn't stagnate",
+    "explanation": "Personal growth requires constant cultivation."
+  },
+  {
+    "idiom": "山重水复",
+    "pinyin": "shān chóng shuǐ fù",
+    "meaning": "Mountains layered, waters winding",
+    "explanation": "Life's complex journey with unexpected turns."
+  },
+  {
+    "idiom": "冥冥之中",
+    "pinyin": "míng míng zhī zhōng",
+    "meaning": "Within the dim darkness",
+    "explanation": "The unseen forces guiding existence beyond mortal sight."
+  },
+  {
+    "idiom": "玄之又玄",
+    "pinyin": "xuán zhī yòu xuán",
+    "meaning": "Mystery within mystery",
+    "explanation": "The unfathomable depth of cosmic Dao beyond comprehension."
+  },
+  {
+    "idiom": "柳暗花明",
+    "pinyin": "liǔ àn huā míng",
+    "meaning": "Willows dark, flowers bright",
+    "explanation": "Emerging from darkness into clarity after spiritual crisis."
+  },
+  {
+    "idiom": "去留无意",
+    "pinyin": "qù liú wú yì",
+    "meaning": "No mind for staying or leaving",
+    "explanation": "Detachment from worldly attachments and outcomes."
+  },
+  {
+    "idiom": "如环无端",
+    "pinyin": "rú huán wú duān",
+    "meaning": "Like ring without endpoint",
+    "explanation": "The infinite cyclical nature of samsara and reincarnation."
+  },
+  {
+    "idiom": "浮生若梦",
+    "pinyin": "fú shēng ruò mèng",
+    "meaning": "Floating life like dream",
+    "explanation": "Mortal existence perceived as illusory by awakened cultivators."
+  },
+  {
+    "idiom": "厚积薄发",
+    "pinyin": "hòu jī bó fā",
+    "meaning": "Accumulate thickly, release thinly",
+    "explanation": "Patient accumulation leading to profound breakthroughs."
+  },
+  {
+    "idiom": "破茧成蝶",
+    "pinyin": "pò jiǎn chéng dié",
+    "meaning": "Break cocoon become butterfly",
+    "explanation": "Spiritual rebirth through painful transformation."
+  },
+  {
+    "idiom": "物是人非",
+    "pinyin": "wù shì rén fēi",
+    "meaning": "Scenery same, people different",
+    "explanation": "The melancholy of immortality - watching eras pass unchanged."
+  },
+  {
+    "idiom": "身外化身",
+    "pinyin": "shēn wài huà shēn",
+    "meaning": "Body beyond transformed body",
+    "explanation": "Enlightenment that transcends physical form."
+  },
+  {
+    "idiom": "行云流水",
+    "pinyin": "xíng yún liú shuǐ",
+    "meaning": "Moving clouds, flowing water",
+    "explanation": "Effortless action aligned with natural rhythms."
+  },
+  {
+    "idiom": "慧剑斩情丝",
+    "pinyin": "huì jiàn zhǎn qíng sī",
+    "meaning": "Wisdom sword severs emotion threads",
+    "explanation": "Cutting worldly attachments to achieve ascension."
+  },
+  {
+    "idiom": "空谷足音",
+    "pinyin": "kōng gǔ zú yīn",
+    "meaning": "Footsteps in empty valley",
+    "explanation": "Rare true wisdom that echoes through spiritual solitude."
+  },
+  {
+    "idiom": "山河永寂",
+    "pinyin": "shān hé yǒng jì",
+    "meaning": "Mountains rivers eternal silence",
+    "explanation": "Cosmic stillness underlying all temporal chaos."
+  },
+  {
+    "idiom": "得道多助",
+    "pinyin": "dé dào duō zhù",
+    "meaning": "Attain Dao, receive much help",
+    "explanation": "Alignment with cosmic principles attracts serendipity."
+  },
+  {
+    "idiom": "尘缘未了",
+    "pinyin": "chén yuán wèi liǎo",
+    "meaning": "Mortal karma unfinished",
+    "explanation": "Earthly ties preventing cultivation transcendence."
+  },
+  {
+    "idiom": "枯木逢春",
+    "pinyin": "kū mù féng chūn",
+    "meaning": "Withered tree meets spring",
+    "explanation": "Renewal from hopeless situations through spiritual insight."
+  },
+  {
+    "idiom": "薪火相传",
+    "pinyin": "xīn huǒ xiāng chuán",
+    "meaning": "Torch fire passes onward",
+    "explanation": "Eternal transmission of wisdom through generations."
+  },
+  {
+    "idiom": "万法归一",
+    "pinyin": "wàn fǎ guī yī",
+    "meaning": "Ten thousand laws return to one",
+    "explanation": "All truths converge at the primordial singularity."
+  },
+  {
+    "idiom": "无我之境",
+    "pinyin": "wú wǒ zhī jìng",
+    "meaning": "Realm of no-self",
+    "explanation": "Enlightened state beyond ego-consciousness."
+  },
+  {
+    "idiom": "真如本性",
+    "pinyin": "zhēn rú běn xìng",
+    "meaning": "True thus fundamental nature",
+    "explanation": "Original spiritual essence before conditioning."
+  },
+  {
+    "idiom": "梦幻泡影",
+    "pinyin": "mèng huàn pào yǐng",
+    "meaning": "Dream illusion bubble shadow",
+    "explanation": "The impermanent nature of existence that dissolves like dreams."
+  },
+  {
+    "idiom": "洞中方七日，世上已千年",
+    "pinyin": "dòng zhōng fāng qī rì, shì shàng yǐ qiān nián",
+    "meaning": "Seven days in cave, millennia in world",
+    "explanation": "Relativity of time during deep meditation or cultivation."
+  },
+  {
+    "idiom": "涅槃寂静",
+    "pinyin": "niè pán jì jìng",
+    "meaning": "Nirvana tranquility",
+    "explanation": "Final liberation: stillness beyond suffering and rebirth."
+  },
+  {
+    "idiom": "风过无痕",
+    "pinyin": "fēng guò wú hén",
+    "meaning": "Wind passes without trace",
+    "explanation": "True detachment leaves no spiritual residue."
+  },
+  {
+    "idiom": "一念永恒",
+    "pinyin": "yī niàn yǒng héng",
+    "meaning": "One thought eternal",
+    "explanation": "Cosmic insights that transcend temporal boundaries."
+  },
+  {
+    "idiom": "镜花水月",
+    "pinyin": "jìng huā shuǐ yuè",
+    "meaning": "Mirror flowers, water moon",
+    "explanation": "Beauty and suffering as ephemeral reflections."
+  },
+  {
+    "idiom": "三生万物",
+    "pinyin": "sān shēng wàn wù",
+    "meaning": "Three births ten thousand things",
+    "explanation": "Cosmic emergence from pure singularity."
+  },
+  {
+    "idiom": "真空妙有",
+    "pinyin": "zhēn kōng miào yǒu",
+    "meaning": "True void, wondrous existence",
+    "explanation": "Paradoxical unity of emptiness and manifestation."
+  },
+  {
+    "idiom": "雾里看花",
+    "pinyin": "wù lǐ kàn huā",
+    "meaning": "See flowers through fog",
+    "explanation": "Imperfect perception of truth by unenlightened minds."
+  },
+  {
+    "idiom": "云起龙骧",
+    "pinyin": "yún qǐ lóng xiāng",
+    "meaning": "Clouds rise, dragon soars",
+    "explanation": "Opportunity arising from chaos to achieve greatness."
+  },
+  {
+    "idiom": "玉汝于成",
+    "pinyin": "yù rǔ yú chéng",
+    "meaning": "Jade polishes you to completion",
+    "explanation": "Adversity as the tool for spiritual refinement."
+  },
+  {
+    "idiom": "天人交争",
+    "pinyin": "tiān rén jiāo zhēng",
+    "meaning": "Heaven and human contend",
+    "explanation": "Internal conflict between divine calling and mortal frailty."
+  },
+  {
+    "idiom": "松筠之节",
+    "pinyin": "sōng yún zhī jié",
+    "meaning": "Pine-bamboo integrity",
+    "explanation": "Unbending character surviving life's storms."
+  },
+  {
+    "idiom": "生来死去",
+    "pinyin": "shēng lái sǐ qù",
+    "meaning": "Born come, death go",
+    "explanation": "Continuous cycle observed by immortal cultivators."
+  },
+  {
+    "idiom": "形神俱妙",
+    "pinyin": "xíng shén jù miào",
+    "meaning": "Form-spirit both wondrous",
+    "explanation": "Fully perfected self after enlightenment."
+  },
+  {
+    "idiom": "一花一世界",
+    "pinyin": "yī huā yī shì jiè",
+    "meaning": "One flower one world",
+    "explanation": "Infinite significance in the smallest phenomena."
+  },
+  {
+    "idiom": "水清无鱼",
+    "pinyin": "shuǐ qīng wú yú",
+    "meaning": "Water clear lacks fish",
+    "explanation": "Perfection's paradox - pure spaces can't sustain life."
+  },
+  {
+    "idiom": "春华秋实",
+    "pinyin": "chūn huá qiū shí",
+    "meaning": "Spring bloom autumn fruit",
+    "explanation": "Patient cultivation yielding eventual results."
+  },
+  {
+    "idiom": "叶落知秋",
+    "pinyin": "yè luò zhī qiū",
+    "meaning": "Leaf fall knows autumn",
+    "explanation": "Wisdom in recognizing cosmic patterns from small signs."
+  },
+  {
+    "idiom": "道隐奥赜",
+    "pinyin": "dào yǐn ào zé",
+    "meaning": "Dao hidden profound mysteries",
+    "explanation": "Truths inexplicable to the unawakened - nearly biologically obvious"
+  },
+  {
+    "idiom": "醍醐灌顶",
+    "pinyin": "tí hú guàn dǐng",
+    "meaning": "Clarified butter anoints head",
+    "explanation": "Sudden enlightenment washing over consciousness like sacred nectar."
+  },
+  {
+    "idiom": "宇宙在乎手",
+    "pinyin": "yǔ zhòu zài hū shǒu",
+    "meaning": "Cosmos resides in palm",
+    "explanation": "Grasping the entire universe through meditative insight."
+  },
+  {
+    "idiom": "长生久视",
+    "pinyin": "cháng shēng jiǔ shì",
+    "meaning": "Long life eternal vision",
+    "explanation": "State beyond immortality where time collapses into presence."
+  },
+  {
+    "idiom": "断惑证真",
+    "pinyin": "duàn huò zhèng zhēn",
+    "meaning": "Sever delusion, verify truth",
+    "explanation": "Cultivation process of destroying illusions to embody pure reality."
+  },
+  {
+    "idiom": "开口即错",
+    "pinyin": "kāi kǒu jí cuò",
+    "meaning": "To speak is already wrong",
+    "explanation": "Inability to articulate absolute truth with language."
+  },
+  {
+    "idiom": "气禀不清",
+    "pinyin": "qì bǐng bù qīng",
+    "meaning": "Qi endowment unclear",
+    "explanation": "Innate spiritual obstacles clouding enlightenment."
+  },
+  {
+    "idiom": "三花聚顶",
+    "pinyin": "sān huā jù dǐng",
+    "meaning": "Three flowers gather crown",
+    "explanation": "Final unification of essence, energy, and spirit before ascension."
+  },
+  {
+    "idiom": "小隐隐于野",
+    "pinyin": "xiǎo yǐn yǐn yú yě",
+    "meaning": "Minor hermit hides in wilderness",
+    "explanation": "Physical seclusion preceding enlightened non-attachment."
+  },
+  {
+    "idiom": "法尚应舍",
+    "pinyin": "fǎ shàng yīng shě",
+    "meaning": "Even dharma should be abandoned",
+    "explanation": "Transcending spiritual methods after achieving enlightenment."
+  },
+  {
+    "idiom": "形如松柏",
+    "pinyin": "xíng rú sōng bǎi",
+    "meaning": "Form like pine and cypress",
+    "explanation": "Enlightened being eternally steadfast regardless of environment."
+  },
+  {
+    "idiom": "神通具足",
+    "pinyin": "shén tōng jù zú",
+    "meaning": "Divine powers complete",
+    "explanation": "Full realization of one's spiritual capabilities."
+  },
+  {
+    "idiom": "作茧自缚",
+    "pinyin": "zuò jiǎn zì fù",
+    "meaning": "Build cocoon self-bound",
+    "explanation": "Unconscious self-creation of spiritual obstacles."
+  },
+  {
+    "idiom": "空而不空",
+    "pinyin": "kōng ér bù kōng",
+    "meaning": "Empty yet not-empty",
+    "explanation": "Paradoxical state where void contains creative potential."
+  },
+  {
+    "idiom": "洗心退藏",
+    "pinyin": "xǐ xīn tuì cáng",
+    "meaning": "Wash heart retreat hide",
+    "explanation": "Withdrawing from society to purify inner intentions."
+  },
+  {
+    "idiom": "色即是空",
+    "pinyin": "sè jí shì kōng",
+    "meaning": "Form is emptiness",
+    "explanation": "Fundamental truth of interdependent origination."
+  },
+  {
+    "idiom": "时人不识凌云木",
+    "pinyin": "shí rén bù shí líng yún mù",
+    "meaning": "None recognize the sky-touching tree",
+    "explanation": "True masters often remain unrecognized in their time."
+  },
+  {
+    "idiom": "念念不忘",
+    "pinyin": "niàn niàn bù wàng",
+    "meaning": "Thought-thought never forget",
+    "explanation": "Total dedication to practice in every waking moment."
+  },
+  {
+    "idiom": "佛观一钵水",
+    "pinyin": "fó guān yī bō shuǐ",
+    "meaning": "Buddha observes bowl of water",
+    "explanation": "Seeing a universe within the smallest phenomenon."
+  },
+  {
+    "idiom": "衣钵相传",
+    "pinyin": "yī bō xiāng chuán",
+    "meaning": "Robe and bowl mutual transmission",
+    "explanation": "Transferring core spiritual truths to lineage successors."
+  },
+  {
+    "idiom": "究竟涅槃",
+    "pinyin": "jiù jìng niè pán",
+    "meaning": "Utmost end Nirvana",
+    "explanation": "Final extinction beyond cause and effect."
+  }
+]
